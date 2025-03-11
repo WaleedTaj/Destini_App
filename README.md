@@ -1,16 +1,39 @@
-# destini
+# **Destini App**
 
-A new Flutter project.
+## **Overview**
 
-## Getting Started
+A **Flutter storytelling app** where user choices shape the adventure. Navigate through interactive stories with dynamic outcomes based on your decisions. 🚀
 
-This project is a starting point for a Flutter application.
+## **📱 Features**
 
-A few resources to get you started if this is your first Flutter project:
+- **Interactive Storytelling**: Choose your path with multiple story branches.
+- **Engaging UI**: Themed dark mode for immersive reading.
+- **Dynamic Choices**: Each selection leads to a different story outcome.
+- **Restart Option**: Easily replay to explore alternate endings.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## **📸 Screenshots**
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="https://github.com/WaleedTaj/Destini_App/blob/master/images/Screenshot1.png" width="200" style="margin-right: 20px;"/> <img src="https://github.com/WaleedTaj/Destini_App/blob/master/images/Screenshot2.png" width="200"/> 
+
+## **🚀 Getting Started**
+
+1. **Clone the Repository**:
+   ```bash
+   git clone https://github.com/WaleedTaj/Destini_App.git
+   ```
+2. **Install Dependencies**:
+   ```bash
+   flutter pub get
+   ```
+3. **Run the App**:
+   ```bash
+   flutter run
+   ```
+
+## **🛠️ Built With**
+
+- **Flutter** - For building the UI and app structure.
+- **Dart** - The programming language powering the app logic.
+
+---
+
